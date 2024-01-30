@@ -1,0 +1,2 @@
+Link do Mojego Projektu gildia.pl 
+Opisane zostały Zestawy testowe, przypadki testowe, raporty z defektu oraz przebieg przypadków testowych 
