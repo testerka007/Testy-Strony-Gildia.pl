@@ -1,3 +1,1 @@
-Link do Mojego Projektu gildia.pl 
-Opisane zostały Zestawy testowe, przypadki testowe, raporty z defektu oraz przebieg przypadków testowych 
-LINK: https://app.qase.io/public/report/3479b802affaa96eee5d31de724e33e90123c4bc
+
